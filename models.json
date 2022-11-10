@@ -1,0 +1,9 @@
+[
+  {
+    "ID": 0,
+    "name": "Model name",
+    "modelFilter": "Model code",
+    "urn": "urn from forge",
+    "prj": "project"
+  }
+]
